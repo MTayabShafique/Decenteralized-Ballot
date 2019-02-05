@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "apple",
+    "picture": "images/apple.jpg"
+  },
+  {
+    "id": 1,
+    "name": "orange",
+    "picture": "images/orange.jpg"
+  },
+  {
+    "id": 2,
+    "name": "mango",
+    "picture": "images/mango.jpg"
+  },
+  {
+    "id": 3,
+    "name": "banana",
+    "picture": "images/banana.jpg"
+  }
+]

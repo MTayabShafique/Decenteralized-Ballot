@@ -16,5 +16,6 @@ Built a voting ballot application with 4 NFL Teams such that there is a chairper
 
 ## Tools 
 1. NodeJs
-2. Metamask (3.14.1)
-3. Truffle (v4.0.4)
+2. Metamask
+3. Solidity 
+4. JavaScript
